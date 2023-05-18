@@ -1,7 +1,7 @@
 # Welcome to my data science webpage
 
 
-<img src="https://mpcrlab.com/uploads/news-pictures/Synthesizing-Existence-ALife-AI-and-the-Fermi-Paradox.png">
+<img src="https://mpcrlab.com/uploads/news-pictures/Synthesizing-Existence-ALife-AI-and-the-Fermi-Paradox.png" width="200px">
 
 - Item 1
 - Item 2

@@ -1,4 +1,4 @@
-# Welcome to my data science webpage
+# Welcome to My Data Science Webpage
 
 
 <img src="https://mpcrlab.com/uploads/news-pictures/Synthesizing-Existence-ALife-AI-and-the-Fermi-Paradox.png" width="200px">
